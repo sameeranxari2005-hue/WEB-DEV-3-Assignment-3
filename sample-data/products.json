@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "sku": "ELEC-MOU-001",
+    "category": "Electronics",
+    "price": 599,
+    "quantity": 25,
+    "reorderLevel": 5,
+    "supplier": "Tech Distributors"
+  },
+  {
+    "name": "A4 Notebook",
+    "sku": "STAT-NOT-002",
+    "category": "Stationery",
+    "price": 80,
+    "quantity": 4,
+    "reorderLevel": 10,
+    "supplier": "Campus Supplies"
+  },
+  {
+    "name": "Office Chair",
+    "sku": "FURN-CHA-003",
+    "category": "Furniture",
+    "price": 3499,
+    "quantity": 8,
+    "reorderLevel": 3,
+    "supplier": "Modern Furnishings"
+  }
+]
